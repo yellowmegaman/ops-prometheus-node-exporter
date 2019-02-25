@@ -1,0 +1,6 @@
+---
+prometheus-node-exporter:
+  version: 0.17.0
+  ram: 64
+  port: 9100
+  count: 1
